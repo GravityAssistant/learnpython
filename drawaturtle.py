@@ -17,9 +17,7 @@ def  drawSquare():
             brad.right(90)
             sides = sides - 1
         brad.right(turn)
-        degrees = degrees - turn
-
-    
+        degrees = degrees - turn 
 
 def drawCircle():
     angie = turtle.Turtle()
